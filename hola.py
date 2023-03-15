@@ -1,2 +1,3 @@
 
-print ("Este es mi primer archivo")
+print ("Este es mi archivo")
+print ("Le agrego algo")
